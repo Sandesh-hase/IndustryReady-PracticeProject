@@ -5,5 +5,5 @@ def run():
     pass
 
 def pre_process():
-    '''This is preprocessing function to perform EDA task on your data'''
+    '''This is preprocessing function to perform cleaning task on your data'''
     pass
